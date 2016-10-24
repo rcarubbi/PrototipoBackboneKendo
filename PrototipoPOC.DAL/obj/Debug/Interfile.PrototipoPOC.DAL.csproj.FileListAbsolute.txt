@@ -1,0 +1,7 @@
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\bin\Debug\Interfile.PrototipoPOC.DAL.dll
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\bin\Debug\Interfile.PrototipoPOC.DAL.pdb
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\obj\Debug\Interfile.PrototipoPOC.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\obj\Debug\Interfile.PrototipoPOC.DAL.dll
+C:\Users\Raphael\Google Drive\PrototipoBackboneKendo\PrototipoPOC.DAL\obj\Debug\Interfile.PrototipoPOC.DAL.pdb

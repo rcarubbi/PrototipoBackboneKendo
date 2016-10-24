@@ -1,0 +1,42 @@
+﻿<script>
+    $(document).ready(function() {
+        $('#grid').kendoGrid({
+            dataSource: { 
+                data: [
+                {{#pessoas}}
+                    { 
+                        id: {{id}}, 
+                        nome: '{{nome}}' 
+                    },
+                {{/pessoas}} 
+                ],
+                schema: {
+                    model: {
+                        fields: {
+                            id: { type: 'number' },
+                            nome: { type: 'string' } 
+                        } 
+                    }
+                    },
+                    pageSize: 2
+            },
+            groupable: true,
+            sortable: true,
+            pageable: true,
+            height: 430,
+            columns: [ 
+                { 
+                    field: 'id',
+                    width: 90,
+                    title: 'Id'
+                },
+                {
+                    field: 'nome',
+                    width: 90,
+                    title: 'Nome'
+                } 
+            ]
+        });
+    });
+</script>
+<div id='grid' style='height: 380px'></div>
