@@ -7,8 +7,8 @@
     <ProjectGuid>{D03B8960-ADCE-4ACE-BF94-78B8A56334AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Interfile.PrototipoPOC.DAL</RootNamespace>
-    <AssemblyName>Interfile.PrototipoPOC.DAL</AssemblyName>
+    <RootNamespace>PrototipoPOC.DAL</RootNamespace>
+    <AssemblyName>PrototipoPOC.DAL</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
